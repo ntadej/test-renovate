@@ -1,6 +1,6 @@
-github "Countly/countly-sdk-ios" == 22.09.0
+github "Countly/countly-sdk-ios" == 23.6.0
 
 binary "https://sparkle-project.org/Carthage/Sparkle.json"
 
-binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseAnalyticsBinary.json"
-binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseMessagingBinary.json"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseAnalyticsBinary.json" == 6.16.0
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseMessagingBinary.json" == 6.16.0
