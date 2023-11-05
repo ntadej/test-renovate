@@ -1,4 +1,4 @@
-binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseAnalyticsBinary.json" "10.17.0"
-binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseMessagingBinary.json" "10.17.0"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseAnalyticsBinary.json" "6.34.0"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseMessagingBinary.json" "6.34.0"
 binary "https://sparkle-project.org/Carthage/Sparkle.json" "2.5.1"
-github "Countly/countly-sdk-ios" "3e7f63c922ec6e168f50500404e1681a2fe07f5d"
+github "Countly/countly-sdk-ios" "23.6.0"
